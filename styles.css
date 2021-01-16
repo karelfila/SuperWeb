@@ -1,0 +1,56 @@
+.Home {
+    background-color: #1d1d1d;
+    margin: 0;
+}
+.nav_bar {
+    text-align: center;
+    background-color: #181818;
+    height: 100vh;
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    margin: 0;
+    width: 60px;
+}
+.homebutton {
+    display: block;
+}
+.navigace {
+    text-align: center  ;
+    height: 330px;
+    width: 60px;
+    list-style-type: none;
+    padding: 0;
+    display: block;
+    margin-top: 250px;
+}
+
+a {
+    text-decoration: none;
+    color: darkgray;
+    font-size: 25px;
+
+}
+.logopogo {
+    background-color: black;
+    display: block;
+    width: 60px;
+    height: 80.88px;
+}
+.logo {
+    margin-top: 8px;
+    margin-left: 18px;
+    margin-right: 18px;
+}
+.logo_sub {
+    margin-left: 18px;
+    margin-bottom: 8px;
+    margin-right: 18px;
+}
+li {
+    margin-bottom: 30px;
+}
+.koule{
+    text-align: right;
+}
