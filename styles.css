@@ -1,7 +1,21 @@
+@font-face {
+    font-family: LaBelle;
+    src: url("LaBelleAurore-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Archivo Narrow';
+    font-style: italic;
+    font-weight: 400;
+    src: url(https://fonts.gstatic.com/s/archivonarrow/v12/tss2ApVBdCYD5Q7hcxTE1ArZ0bb1uXF63u8p.woff2) format('woff2');
+    unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+}
+
 .Home {
     background-color: #1d1d1d;
     margin: 0;
 }
+
 .nav_bar {
     text-align: center;
     background-color: #181818;
@@ -13,17 +27,22 @@
     margin: 0;
     width: 60px;
 }
+
 .homebutton {
     display: block;
 }
+
 .navigace {
-    text-align: center  ;
+    text-align: center;
     height: 330px;
     width: 60px;
     list-style-type: none;
-    padding: 0;
+    padding: 0px;
     display: block;
     margin-top: 250px;
+    text-decoration: none;
+    color: darkgray;
+    font-size: 25px;
 }
 
 a {
@@ -32,25 +51,80 @@ a {
     font-size: 25px;
 
 }
+
 .logopogo {
     background-color: black;
     display: block;
     width: 60px;
     height: 80.88px;
 }
+
 .logo {
     margin-top: 8px;
     margin-left: 18px;
     margin-right: 18px;
 }
+
 .logo_sub {
     margin-left: 18px;
     margin-bottom: 8px;
     margin-right: 18px;
 }
-li {
-    margin-bottom: 30px;
+
+.linavigace {
+    margin-bottom: 35px;
 }
-.koule{
+
+.likontakt {
+    margin-bottom: 15px;
+}
+
+.koule {
     text-align: right;
+    position: absolute;
+    right: 5%;
+    position: absolute;
+    top: 25%;
+}
+
+.text {
+    color: white;
+    font-size: 35px;
+    position: absolute;
+    top: 27%;
+    position: absolute;
+    left: 7%;
+    height: 201px;
+    width: 476.8px;
+    margin: 0px;
+    font-family: "Archivo Narrow";
+}
+
+.Jintext {
+    margin: 0;
+    padding: 0;
+}
+
+.kontakty {
+    margin-top: 170px;
+    text-align: center;
+    list-style-type: none;
+    display: block;
+    width: 60px;
+    height: 140px;
+    padding: 0px;
+}
+
+.Ab {
+    font-size: 15px;
+}
+h2 {
+    color: #8d8d8d;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: 3px;
+    font-size: 16px;
+    font-weight: normal;
+}
+h1 {
+    margin-bottom: 12px;
 }
