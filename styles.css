@@ -10,6 +10,10 @@
     src: url(https://fonts.gstatic.com/s/archivonarrow/v12/tss2ApVBdCYD5Q7hcxTE1ArZ0bb1uXF63u8p.woff2) format('woff2');
     unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
 }
+@font-face {
+    font-family: Montserrat;
+    src: url("Montserrat-Medium.ttf");
+}
 
 .Home {
     background-color: #1d1d1d;
@@ -89,15 +93,15 @@ a {
 
 .text {
     color: white;
-    font-size: 35px;
+    font-size: 30px;
     position: absolute;
-    top: 27%;
+    top: 31%;
     position: absolute;
     left: 7%;
     height: 201px;
     width: 476.8px;
     margin: 0px;
-    font-family: "Archivo Narrow";
+    font-family: "Montserrat";
 }
 
 .Jintext {

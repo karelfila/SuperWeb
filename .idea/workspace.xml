@@ -11,9 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fb808e-e1ab-40c4-a0ec-92388e450f57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LaBelleAurore-Regular.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Montserrat-Medium.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,8 +55,12 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\IT\Projekty\SuperWeb\fontawesome-free-5.15.1-web" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\IT\Projekty\SuperWeb" />
       <recent name="E:\IT\Projekty\SuperWeb\fontawesome-free-5.15.1-web" />
@@ -89,6 +92,9 @@
       <workItem from="1610787533155" duration="3202000" />
       <workItem from="1610796616937" duration="1522000" />
       <workItem from="1610799936482" duration="3418000" />
+      <workItem from="1610873251095" duration="112000" />
+      <workItem from="1610883233434" duration="253000" />
+      <workItem from="1610883509388" duration="941000" />
     </task>
     <servers />
   </component>
@@ -108,10 +114,22 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="552" y="178" width="816" height="729" key="#Intentions" timestamp="1610883739861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="178" width="816" height="729" key="#Intentions/0.0.1920.1040@0.0.1920.1040" timestamp="1610883739861" />
     <state x="440" y="94" key="#Project_Structure" timestamp="1610711855898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="440" y="94" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1610711855898" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1610883418438">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610883418438" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1610883568695">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610883568695" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610801672585">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
