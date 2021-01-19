@@ -15,15 +15,44 @@
     src: url("Montserrat-Medium.ttf");
 }
 
-.Home {
+.container {
+    display: flex;
     background-color: #1d1d1d;
+    text-align: left;
+    height: 100vh;
+    font-family: Arial;
+    align-items: center;
+    color: white;
     margin: 0;
+    justify-content: space-around;
 }
 
+body {
+    margin: 0;
+    background-color: #1d1d1d;
+    font-size: 30px;
+    color: white;
+    font-family: Montserrat;
+}
+h2 {
+    color: #8d8d8d;
+    font-family: "Open Sans", sans-serif;
+    letter-spacing: 3px;
+    font-size: 16px;
+    font-weight: normal;
+    margin: 0;
+}
+h1{
+    margin: 0 0 12px;
+
+}
+.Jintext {
+    margin: 0;
+    padding: 0;
+}
 .nav_bar {
     text-align: center;
     background-color: #181818;
-    height: 100vh;
     position: fixed;
     left: 0;
     top: 0;
@@ -80,37 +109,11 @@ a {
 }
 
 .likontakt {
-    margin-bottom: 15px;
-}
-
-.koule {
-    text-align: right;
-    position: absolute;
-    right: 5%;
-    position: absolute;
-    top: 25%;
-}
-
-.text {
-    color: white;
-    font-size: 30px;
-    position: absolute;
-    top: 31%;
-    position: absolute;
-    left: 7%;
-    height: 201px;
-    width: 476.8px;
-    margin: 0px;
-    font-family: "Montserrat";
-}
-
-.Jintext {
-    margin: 0;
-    padding: 0;
+    margin-bottom: 10px;
 }
 
 .kontakty {
-    margin-top: 170px;
+    margin-top: 110px;
     text-align: center;
     list-style-type: none;
     display: block;
@@ -121,14 +124,4 @@ a {
 
 .Ab {
     font-size: 15px;
-}
-h2 {
-    color: #8d8d8d;
-    font-family: "Open Sans", sans-serif;
-    letter-spacing: 3px;
-    font-size: 16px;
-    font-weight: normal;
-}
-h1 {
-    margin-bottom: 12px;
 }

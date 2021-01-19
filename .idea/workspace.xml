@@ -11,8 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="70fb808e-e1ab-40c4-a0ec-92388e450f57" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Montserrat-Medium.ttf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,6 +95,12 @@
       <workItem from="1610873251095" duration="112000" />
       <workItem from="1610883233434" duration="253000" />
       <workItem from="1610883509388" duration="941000" />
+      <workItem from="1610907324480" duration="317000" />
+      <workItem from="1610917874715" duration="251000" />
+      <workItem from="1610962117896" duration="759000" />
+      <workItem from="1610990353774" duration="621000" />
+      <workItem from="1610991642959" duration="1531000" />
+      <workItem from="1611052073816" duration="6662000" />
     </task>
     <servers />
   </component>
@@ -126,13 +132,21 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1610883418438" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1610883568695">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1610907367723">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610883568695" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1610907367723" />
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1611060008577">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611060008577" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1610801672585">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1610801672585" />
+    <state x="342" y="140" key="new project wizard" timestamp="1611054754734">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="140" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1611054754734" />
   </component>
 </project>
